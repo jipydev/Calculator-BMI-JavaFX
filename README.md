@@ -1,3 +1,5 @@
+<img width="415" height="519" alt="image" src="https://github.com/user-attachments/assets/a30e8dee-6906-4d01-a60b-8778a4803089" />
+
 Cara Menjalankan Proyek
 1. Menggunakan Apache NetBeans (Cara Termudah)
 Buka proyek projek-kalkulator-bmi di Apache NetBeans.
